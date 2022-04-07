@@ -1,0 +1,14 @@
+index.html-->
+
+<h1>Input here below--></h1>
+
+<form method="" action="counter">
+
+    <textarea name="text" rows="30" cols="50"></textarea><br>
+    <input type="submit" />
+</form>
+
+------------------------------------------------------------------------------------
+
+counter.html-->
+<h1>the amount of word is {{amount}}</h1>
